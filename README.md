@@ -1,0 +1,2 @@
+# terragrunt-infrastructure
+TERRAGRUNT CONFIGURATION
